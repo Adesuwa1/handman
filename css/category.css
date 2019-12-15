@@ -1,0 +1,12 @@
+.card p {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.card-columns .card {
+    margin-bottom: 2rem;
+}
+
+.section-category .card {
+    background-color: var(--website-color-light);
+}

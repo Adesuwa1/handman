@@ -1,0 +1,97 @@
+.section-cards .card-image{
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.section-cards .card-image a:hover {
+    text-decoration: none;
+    color: var(--color-white);
+    background-color: var(--website-color);
+}
+
+.section-cards img  {
+    height: 190px;
+    width: 190px;
+    border: 1px solid var(--color-white);
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center center;
+}
+
+.section-cards img a:hover {
+    text-decoration: none;
+    color: var(--color-white);
+    background-color: var(--website-color);
+ 
+}
+
+.section-cards .card-title {
+    font-size: 19px;
+    font-weight: 600;
+    color: var(--website-color);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   
+
+}
+
+.section-cards .card-text  {
+    font-size: 14px;
+    font-weight: 400;
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+    .section-cards .card-image{
+        height: 200px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+       
+    }
+    
+    .section-cards .card-image a:hover {
+        text-decoration: none;
+        color: var(--color-white);
+        background-color: var(--website-color);
+    }
+    
+    .section-cards img  {
+        height: 190px;
+        width: 190px;
+        border: 1px solid var(--color-white);
+        border-radius: 50%;
+        object-fit: cover;
+        object-position: center center;
+    }
+    
+    .section-cards img a:hover {
+        text-decoration: none;
+        color: var(--color-white);
+        background-color: var(--website-color);
+     
+    }
+    
+    .section-cards .card-title {
+        font-size: 19px;
+        font-weight: 600;
+        color: var(--website-color);
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+       
+    
+    }
+    
+    .section-cards .card-text  {
+        font-size: 14px;
+        font-weight: 400;
+        display: flex;
+        flex-direction: row;
+        justify-content: center; 
+    }    
